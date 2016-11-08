@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8231c154d5a300c57d0da6be14f0c708d0ad4278">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eda4cd0d08a9a240fbefa3cb3966f2353ff43b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7e4106912383b492b08eb9237ea0b90fe8e26d0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9eecda1dd6ba28f39608da4af9beb1d446edb9b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_364f8e82d320515d067ef3979b41443705053a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1937cc661d2238f5ea667cf1771f52f361f72501\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e5e125a9185bc9abdac109e04a7ab0a7096cd644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eb519461c5def0764eb160ab001a6dacbb68c1cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c8b574684258145139b0f6189c4ab59ecb6cf0f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0ff55e86bbae3a8f445bc18d494fc56fdc397954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ea7f356f5ea588c82e62e8dff5ca0d43ad2497ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9269ea06f7b0b7052c28599af4925bcc3d4187e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="db60581755f3e2eeae61befe3959ff80dad6aec9">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a06917b1262c2b0647fb9db8008d388e5b534902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ff3c0e9afe7a657096d86f79241cb3f1083d0475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_fe00321f4a15bf26702a6306d76fe6045081e80e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_454f3700f3b6dd31554aaa5d73c47fac5031d34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_30351c3eabcbca498e649065a3b5e745735e8666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\DENIS\.AndroidStudio2.2\latihan_sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1c22df99b3784f9b933c8c0bfd2bc75b461d3dd2\classes.dex" />
+    </item>
+
+</items>
